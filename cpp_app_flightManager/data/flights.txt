@@ -1,0 +1,9 @@
+airline,the date and time,duration,departure,arrival,seat number,class,transit,international flight,visa requirements
+Nordwind,2017-07-24T15:46:29,14:10, Moscow, Simferopol, 15A, economy, 1, 1, 1
+Aeroflot,2021-09-21T10:10,5:50, Moscow, Paris, 1A, business, 1, 1, 0
+Emirates,2021-08-20T08:30,14:50, Moscow, Dubai, 2B, first, 1, 1, 1
+Pobeda,2021-07-31T23:15,03:50, Moscow, Miami, 30D, economy, 0, 1, 0
+Boeing,2021-11-27T07:00,8:55, New-York, Kiev, 43F, economy, 0, 1, 0
+Bombardier,2021-12-10T03:15,5:35, Toronto, Minsk, 5C, business, 1, 0, 1
+British aerospace,2021-10-30T06:05,8:15, London, Berlin, 2A, first, 1, 0, 0
+Airbus,2021-08-05T20:15,00:50, Madrid, Habana, 15E, economy, 0, 0, 1
